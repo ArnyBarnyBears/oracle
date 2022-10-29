@@ -3,7 +3,7 @@ compartmentId = 'ocid1.tenancy.oc1..aaaaaaaad43xsumyoakq4d7jwj2wrykci5xohctqig6i
 availabilityDomain = "gYkL:UK-LONDON-1-AD-1"
 imageId = "ocid1.image.oc1.uk-london-1.aaaaaaaas5uqwmfjxrbnrp22ybesgpvhe6e2miq4nnxffqac5zizmqzbdhqa"
 subnetId = 'ocid1.subnet.oc1.uk-london-1.aaaaaaaaoqnzvlgpuowr7ssscqvhgeg3wont47vz5eeqi4r3vhke63sjnj4q'
-ssh_authorized_keys = "ssh_authorized_keys^\^":^\^"ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCv1IYh+JCbGbRSjfANT3iWvTF3PoFbwapnGfTDoZrtpDO5DlbdapgslBcdvzqXJtkt6e62dmsdiwhtoWGpP8mCPPLv/0Q9qOv+Uf+GLIfh7j8/EwfL8nqzgCUeM4J5/PBXAmdkV7bQ2B+QEkDS+wX7Igk3mlKbRMxejHCCk5JaNrAu5+Cx4hXsE7cextJAb94zJnMK3BE266dDxu2sc2WVxWPyoB/5/jEDByNkcF9PH1u27DCowVKmVDVLvX+LrWo4u+fQt8uHvl4EDXI1zO6zuHPnip+VeWJgigdjWHAOkX9aTh+YRkvFukjiDm/OFkZPgKzFHj7DBv8szcCaa4TH ssh-key-2022-10-29"
+ssh_authorized_keys = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCv1IYh+JCbGbRSjfANT3iWvTF3PoFbwapnGfTDoZrtpDO5DlbdapgslBcdvzqXJtkt6e62dmsdiwhtoWGpP8mCPPLv/0Q9qOv+Uf+GLIfh7j8/EwfL8nqzgCUeM4J5/PBXAmdkV7bQ2B+QEkDS+wX7Igk3mlKbRMxejHCCk5JaNrAu5+Cx4hXsE7cextJAb94zJnMK3BE266dDxu2sc2WVxWPyoB/5/jEDByNkcF9PH1u27DCowVKmVDVLvX+LrWo4u+fQt8uHvl4EDXI1zO6zuHPnip+VeWJgigdjWHAOkX9aTh+YRkvFukjiDm/OFkZPgKzFHj7DBv8szcCaa4TH ssh-key-2022-10-29"
 
 
 import oci
